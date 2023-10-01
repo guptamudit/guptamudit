@@ -112,7 +112,7 @@
 <p>
   <img
     align="left"
-    style="margin-top: 43"
+    style="margin-top: 43px"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=guptamudit&show_icons=true&locale=en&layout=compact"
     alt="guptamudit"
   />
