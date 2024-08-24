@@ -14,7 +14,7 @@ Web Developer | C++ Programmer | DSA
 ![](https://github-readme-stats.vercel.app/api?username=guptamudit&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=guptamudit&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guptamudit&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://raw.githubusercontent.com/{guptamudit}/{guptamudit}/output/github-contribution-grid-snake-dark.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=guptamudit&icon=0&color=12)](https://visitcount.itsvg.in)
 
