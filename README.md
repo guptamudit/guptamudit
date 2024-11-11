@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Mudit Gupta
 
-Web Developer | C++ Programmer | DSA
+Web Developer | C++ Programmer | Data Analyst | DSA
 
 
 ## 🌐 Socials:
