@@ -1,6 +1,8 @@
 ## Hi 👋 I'm Mudit Gupta
 
-Web Developer | C++ Programmer | Data Analyst | DSA
+- Web Developer | Data Analyst | DSA
+- SDET Infosys Limited
+
 
 
 ## 🌐 Socials:
