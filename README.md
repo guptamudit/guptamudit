@@ -1,8 +1,4 @@
 ## Hi 👋 I'm Mudit Gupta
 
-- Web Developer | Data Analyst | DSA
+- Automation | Web Development | DSA
 - SDET Infosys Limited
-
-
-
-
